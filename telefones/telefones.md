@@ -70,7 +70,7 @@
 69 desligou
 70 empresa, desligou
 71 recado
-72
+72 programado
 73
 74
 75
