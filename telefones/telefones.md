@@ -64,12 +64,12 @@
 63 programado
 64 programado
 65 chamou, mas ñ atendeu
-66
-67
-68
-69
-70
-71
+66 caixa postal
+67 chamou, mas ñ atendeu
+68 no momento encontrasse desligado
+69 desligou
+70 empresa, desligou
+71 recado
 72
 73
 74
