@@ -71,10 +71,10 @@
 70 empresa, desligou
 71 recado
 72 programado
-73
-74
-75
-76
+73 ñ atendeu
+74 Valter... Ligar novamente....
+75 programado
+76 
 77
 78
 79
