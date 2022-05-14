@@ -82,6 +82,17 @@
 81 recado
 82 chamou,ñ atendeu
 83 ñ existe
+73 ñ atendeu
+74 Valter... Ligar novamente....
+75 programado
+76 
+77
+78
+79
+80
+81
+82
+83
 84
 85
 86
