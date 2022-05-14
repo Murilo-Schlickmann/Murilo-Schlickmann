@@ -81,7 +81,7 @@
 80 recado
 81 recado
 82 chamou,ñ atendeu
-83
+83 ñ existe
 84
 85
 86
