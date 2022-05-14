@@ -71,6 +71,17 @@
 70 empresa, desligou
 71 recado
 72 programado
+73 recado
+74 recado
+75 recado
+76 **Alan**
+77 programado
+78 programado
+79 recado
+80 recado
+81 recado
+82 chamou,ñ atendeu
+83 ñ existe
 73 ñ atendeu
 74 Valter... Ligar novamente....
 75 programado
