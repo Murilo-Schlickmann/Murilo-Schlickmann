@@ -71,16 +71,16 @@
 70 empresa, desligou
 71 recado
 72 programado
-73
-74
-75
-76
-77
-78
-79
-80
-81
-82
+73 recado
+74 recado
+75 recado
+76 **Alan**
+77 programado
+78 programado
+79 recado
+80 recado
+81 recado
+82 chamou,ñ atendeu
 83
 84
 85
